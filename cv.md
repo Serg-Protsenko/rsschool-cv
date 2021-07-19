@@ -12,8 +12,7 @@
 
 ## Summary:
 
-Entry level Backend developer specializing in Python/Django development with basic experience in SQL
-looking for a position that would allow to grow as a software engineer.
+Entry level Backend developer specializing in Python/Django development with basic experience in SQL looking for a position that would allow to grow as a software engineer.
 
 ## Skills:
 
@@ -46,17 +45,17 @@ looking for a position that would allow to grow as a software engineer.
 
 ##### **Backend Trainee** - Veteranius, Kyiv, Ukraine
 
-September 2020 – December 2020
+**_September 2020 – December 2020_**
 
-Backend developing using Django, coding, closely working with a team of 19 developers.
+**_Backend developing using Django, coding, closely working with a team of 19 developers._**
 
 ## EDUCATION
 
 ##### **National Aerospace University “Kharkiv Aviation Institute”,** Kharkiv, Ukraine - **Master Degree**
 
-September 2002 – February 2008
+**_September 2002 – February 2008_**
 
-Master degree in Electronics and Telecommunications.
+**_Master degree in Electronics and Telecommunications._**
 
 ## PROJECTS
 
@@ -64,5 +63,4 @@ Master degree in Electronics and Telecommunications.
 
 **website [https://mva.gov.ua](https://mva.gov.ua)**
 
-Prototyping of main backend modules using Django, implementing architectural solutions, coding,
-closely working with a team of 19 developers.
+**_Prototyping of main backend modules using Django, implementing architectural solutions, coding,closely working with a team of 19 developers._**
