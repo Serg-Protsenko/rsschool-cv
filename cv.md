@@ -21,7 +21,7 @@ Entry level Backend developer specializing in Python/Django development with bas
 - **Javascipt - basic**
 - **HTML/CSS - basic**
 
-## TOOLS
+## Tools
 
 - **Jira/Confluence/Trello**
 - **Slack**
@@ -29,13 +29,13 @@ Entry level Backend developer specializing in Python/Django development with bas
 - **Visual Studio Code**
 - **Github/GitLab**
 
-## CERTIFICATES
+## Certificates
 
 - **Harvard CS50 (Computer science course)**
 - **Veteranius**
 - **GeekHub Python**
 
-## LANGUAGES
+## Languages
 
 - **English - Intermediate**
 - **Ukrainian - Native**
