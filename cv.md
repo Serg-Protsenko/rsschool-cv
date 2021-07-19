@@ -40,3 +40,24 @@ Entry level Backend developer specializing in Python/Django development with bas
 - **English - Intermediate**
 - **Ukrainian - Native**
 - **Russian - Fluent**
+
+## Experience:
+
+##### **Backend Trainee** - Veteranius, Kyiv, Ukraine
+
+September 2020 – December 2020
+Backend developing using Django, coding, closely working with a team of 19 developers.
+
+## EDUCATION
+
+##### **National Aerospace University “Kharkiv Aviation Institute”,** Kharkiv, Ukraine - **Master Degree**
+
+September 2002 – February 2008
+Master degree in Electronics and Telecommunications.
+
+## PROJECTS
+
+##### **Ministry for Veterans Affairs of Ukraine,**
+
+**website [https://mva.gov.ua](https://mva.gov.ua)**
+Prototyping of main backend modules using Django, implementing architectural solutions, coding, closely working with a team of 19 developers.
